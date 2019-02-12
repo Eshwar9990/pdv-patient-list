@@ -1,0 +1,45 @@
+.patientListContainer {
+	font-size: 11px;
+}
+
+.hover {
+  	cursor: pointer;
+}
+
+.action-icon {
+	margin: 0 5px;
+}
+
+.pl-table td {
+	padding: 0.65rem;
+}
+
+.pagination-list {
+	float: right;
+	margin: 0 15px 5px 0;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+    padding: 7px 10px;
+}
+
+.paginate_button {
+	padding: 4px 8px !important;
+}
+
+.paginate_button:hover {
+	z-index: 2;
+	color: #0056b3;
+	text-decoration: none;
+	background-color: #e9ecef !important;
+	border-color: #dee2e6;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
